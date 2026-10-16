@@ -1,17 +1,17 @@
 {
-  "latest": "0.1.1",
-  "download": "https://github.com/sishirD/seatwatch-releases/releases/tag/v0.1.1",
-  "notes": "Updates now install with one click, the cinema list is built in, and seat maps open more reliably.",
+  "latest": "0.1.2",
+  "download": "https://github.com/sishirD/seatwatch-releases/releases/tag/v0.1.2",
+  "notes": "Updates now install with one click, the cinema list is built in, seat maps open more reliably, and setup closes Seat Watch for you.",
   "required": "0.0.0",
   "paused": false,
   "message": "",
   "update": {
     "payload": {
-      "version": "0.1.1",
-      "url": "https://github.com/sishirD/seatwatch-releases/releases/download/v0.1.1/SeatWatchSetup.exe",
-      "size": 73281333,
-      "sha256": "d8ac2f7a3eab6bd814a307c0199266603da4e0a268eaca4afe22bf7f5008c69e"
+      "version": "0.1.2",
+      "url": "https://github.com/sishirD/seatwatch-releases/releases/download/v0.1.2/SeatWatchSetup.exe",
+      "size": 73282102,
+      "sha256": "8c4a8b80a39dd2fd9828cabd0ee97290bd448165720f011a78603f13b40a1a2f"
     },
-    "signature": "0WJInKpxOBOsGggomWRaUxKPTkHFpyinEPp3W7nHlgl8i5eNDzxul3WsZB22Ap+/PYrKN8ER3Vrz7ffk89iSDA=="
+    "signature": "RmaRUHW3l8goPWcdBdKd3E59OahfvxQ5VVIGAWN6EMmL+1g47qgGu7uzVEjSpsfr+7YRx0bScx5KvVjqWXFODw=="
   }
 }
