@@ -1,8 +1,17 @@
 {
-  "latest": "0.1.0",
-  "download": "https://github.com/sishirD/seatwatch-releases/releases/tag/v0.1.0",
-  "notes": "First release: seat alerts for BookMyShow and District on your PC. Alerts only: it never books or pays. Windows may warn the app isn't signed yet: choose More info, then Run anyway.",
+  "latest": "0.1.1",
+  "download": "https://github.com/sishirD/seatwatch-releases/releases/tag/v0.1.1",
+  "notes": "Updates now install with one click, the cinema list is built in, and seat maps open more reliably.",
   "required": "0.0.0",
   "paused": false,
-  "message": ""
+  "message": "",
+  "update": {
+    "payload": {
+      "version": "0.1.1",
+      "url": "https://github.com/sishirD/seatwatch-releases/releases/download/v0.1.1/SeatWatchSetup.exe",
+      "size": 73281333,
+      "sha256": "d8ac2f7a3eab6bd814a307c0199266603da4e0a268eaca4afe22bf7f5008c69e"
+    },
+    "signature": "0WJInKpxOBOsGggomWRaUxKPTkHFpyinEPp3W7nHlgl8i5eNDzxul3WsZB22Ap+/PYrKN8ER3Vrz7ffk89iSDA=="
+  }
 }
