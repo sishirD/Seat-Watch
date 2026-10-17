@@ -1,17 +1,17 @@
 {
-  "latest": "0.1.4",
-  "download": "https://github.com/sishirD/seatwatch-releases/releases/tag/v0.1.4",
-  "notes": "Seat Watch now tidies up after updates, freeing space: it keeps only one older copy and the latest backups.",
+  "latest": "0.1.5",
+  "download": "https://github.com/sishirD/seatwatch-releases/releases/tag/v0.1.5",
+  "notes": "Use one account on more than one PC: your watches are shared, and only one PC checks, so alerts don't double up. The seat map remembers how many seats you picked, and Copy details now includes memory use.",
   "required": "0.0.0",
   "paused": false,
   "message": "",
   "update": {
     "payload": {
-      "version": "0.1.4",
-      "url": "https://github.com/sishirD/seatwatch-releases/releases/download/v0.1.4/SeatWatchSetup.exe",
-      "size": 73302584,
-      "sha256": "64ced294da5b32b2ac71525971e2e9e05a5c761a12c8c5d0bf0a3ac2081688a2"
+      "version": "0.1.5",
+      "url": "https://github.com/sishirD/seatwatch-releases/releases/download/v0.1.5/SeatWatchSetup.exe",
+      "size": 73320946,
+      "sha256": "8b5bbee819f15104e176c1d518169a114da647535c0d19447af9c7c78feef26d"
     },
-    "signature": "8YhJBKn6WTNmVIRfFDw2ARAzZCBIwgkqRbXUEQT+k/GsGSRVr2QdArLlWHSTGzTou+FT37fVyTDWsVeYICv3BQ=="
+    "signature": "g9/zVBY/iFB9C4b4iUVMtQqHPAGeVVi7hL+QGb2Ke35tO1vGpvX3PvaEaS2sEKHidZnRY3GMPzMMRZIbAvqDAw=="
   }
 }
