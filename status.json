@@ -1,17 +1,17 @@
 {
-  "latest": "0.1.5",
-  "download": "https://github.com/sishirD/seatwatch-releases/releases/tag/v0.1.5",
-  "notes": "Use one account on more than one PC: your watches are shared, and only one PC checks, so alerts don't double up. The seat map remembers how many seats you picked, and Copy details now includes memory use.",
-  "required": "0.0.0",
+  "latest": "0.1.6",
+  "download": "https://github.com/sishirD/seatwatch-releases/releases/tag/v0.1.6",
+  "notes": "Sign in with Google right in the app, no website account needed: your 5 watches move with you to a new PC (one PC at a time). Alerts can also come on Telegram. Seat maps recover by themselves when they get stuck, long runs use less memory, and alerts only come when seats open, not when a show sells out.",
+  "required": "0.1.6",
   "paused": false,
   "message": "",
   "update": {
     "payload": {
-      "version": "0.1.5",
-      "url": "https://github.com/sishirD/seatwatch-releases/releases/download/v0.1.5/SeatWatchSetup.exe",
-      "size": 73320946,
-      "sha256": "8b5bbee819f15104e176c1d518169a114da647535c0d19447af9c7c78feef26d"
+      "version": "0.1.6",
+      "url": "https://github.com/sishirD/seatwatch-releases/releases/download/v0.1.6/SeatWatchSetup.exe",
+      "size": 73331792,
+      "sha256": "ab232480566bcfa68b452d01584270248d339797f1ca0d6c7ce2032f4d6346af"
     },
-    "signature": "g9/zVBY/iFB9C4b4iUVMtQqHPAGeVVi7hL+QGb2Ke35tO1vGpvX3PvaEaS2sEKHidZnRY3GMPzMMRZIbAvqDAw=="
+    "signature": "w2UtALh1I81mNICc+4bHyYHtuqGcd++HH0P1V4kAosNE5mcISJlOY5ANmrkUD0gbdO210f6Q/Svjk2eVI7ZfAQ=="
   }
 }
