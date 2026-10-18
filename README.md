@@ -41,7 +41,7 @@
 <tr>
 <td width="33%" valign="top"><h3>🎬 Watch what you want</h3>A show, a cinema and date, or a film before bookings even open.</td>
 <td width="33%" valign="top"><h3>💺 Only your seats</h3>Pick rows or categories on the real seat map, and how many seats you need together (1 to 10).</td>
-<td width="33%" valign="top"><h3>🔔 Alerts where you are</h3>A Windows notification with a link straight to the seats, and on your phone too through the free <a href="https://ntfy.sh">ntfy</a> app.</td>
+<td width="33%" valign="top"><h3>🔔 Alerts where you are</h3>A Windows notification with a link straight to the seats, and on your phone too through the free <a href="https://ntfy.sh">ntfy</a> app or Telegram.</td>
 </tr>
 <tr>
 <td valign="top"><h3>🌙 Quiet hours</h3>Alerts arrive silently when you choose; checking carries on.</td>
@@ -66,8 +66,8 @@ Seat Watch updates itself: when a new version is ready, the app tells you and in
 <details>
 <summary><b>Is it free?</b></summary>
 
-Yes. No ads, no subscription. Without an account you get 1 watch; a free account gives you 5 and shares them
-between your PCs.
+Yes. No ads, no subscription. Without an account you get 1 watch; signing in with Google gives you 5, and they
+move with you to a new PC (one PC at a time).
 </details>
 
 <details>
