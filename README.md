@@ -12,13 +12,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/sishirD/seatwatch-releases/releases/latest/download/SeatWatchSetup.exe">
+  <a href="https://github.com/sishirD/Seat-Watch/releases/latest/download/SeatWatchSetup.exe">
     <img src="assets/download.png" alt="Download for Windows" height="56">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/sishirD/seatwatch-releases/releases/latest"><img alt="Latest version" src="https://img.shields.io/github/v/release/sishirD/seatwatch-releases?style=flat-square&label=version&color=a3123a"></a>
+  <a href="https://github.com/sishirD/Seat-Watch/releases/latest"><img alt="Latest version" src="https://img.shields.io/github/v/release/sishirD/Seat-Watch?style=flat-square&label=version&color=a3123a"></a>
   <img alt="Windows 10 and 11" src="https://img.shields.io/badge/Windows-10%20%26%2011-1d1a21?style=flat-square">
   <img alt="Free" src="https://img.shields.io/badge/price-free-1f8a5b?style=flat-square">
   <img alt="No ads or trackers" src="https://img.shields.io/badge/ads%20%26%20trackers-none-1d1a21?style=flat-square">
@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://bmstickethelper.dpdns.org">Website</a> ·
-  <a href="https://github.com/sishirD/seatwatch-releases/releases/latest">What's new</a> ·
+  <a href="https://github.com/sishirD/Seat-Watch/releases/latest">What's new</a> ·
   <a href="#questions">Questions</a> ·
   <a href="https://bmstickethelper.dpdns.org/privacy">Privacy</a>
 </p>
@@ -57,7 +57,7 @@
 
 | 1. Download | 2. Install | 3. Watch |
 | --- | --- | --- |
-| Get [`SeatWatchSetup.exe`](https://github.com/sishirD/seatwatch-releases/releases/latest/download/SeatWatchSetup.exe) (about 70 MB). | Run it. If Windows says *"Windows protected your PC"*, choose **More info**, then **Run anyway**. | Pick BookMyShow or District and your area, then add a watch. It lives in your tray. |
+| Get [`SeatWatchSetup.exe`](https://github.com/sishirD/Seat-Watch/releases/latest/download/SeatWatchSetup.exe) (about 70 MB). | Run it. If Windows says *"Windows protected your PC"*, choose **More info**, then **Run anyway**. | Pick BookMyShow or District and your area, then add a watch. It lives in your tray. |
 
 Seat Watch updates itself: when a new version is ready, the app tells you and installs it in one click.
 
